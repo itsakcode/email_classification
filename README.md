@@ -5,6 +5,6 @@
 
 ```
 ------- Accuracy Scores --------
-Logistic Regression: 0.91486
-RandomForest Classifier: 0.95048
+Logistic Regression: 0.93136
+RandomForest Classifier: 0.96003
 ```
